@@ -17,7 +17,7 @@ button {
 #center {
     margin: 0;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -37,7 +37,7 @@ button {
     font-size: 13px;
     margin: 0;
     position: absolute;
-    top: 81%;
+    top: 75%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
